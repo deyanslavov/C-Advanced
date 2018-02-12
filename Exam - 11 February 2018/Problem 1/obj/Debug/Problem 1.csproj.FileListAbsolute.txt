@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exams\Exam - 11 February 2018\Problem 1\bin\Debug\Problem 1.exe.config
+E:\Coding\SoftUni\C# Advanced\Exams\Exam - 11 February 2018\Problem 1\bin\Debug\Problem 1.exe
+E:\Coding\SoftUni\C# Advanced\Exams\Exam - 11 February 2018\Problem 1\bin\Debug\Problem 1.pdb
+E:\Coding\SoftUni\C# Advanced\Exams\Exam - 11 February 2018\Problem 1\obj\Debug\Problem 1.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exams\Exam - 11 February 2018\Problem 1\obj\Debug\Problem 1.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exams\Exam - 11 February 2018\Problem 1\obj\Debug\Problem 1.exe
+E:\Coding\SoftUni\C# Advanced\Exams\Exam - 11 February 2018\Problem 1\obj\Debug\Problem 1.pdb
