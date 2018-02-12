@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\04. Hospital With Classes\bin\Debug\_04.Hospital_With_Classes.exe.config
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\04. Hospital With Classes\bin\Debug\_04.Hospital_With_Classes.exe
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\04. Hospital With Classes\bin\Debug\_04.Hospital_With_Classes.pdb
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\04. Hospital With Classes\obj\Debug\04. Hospital With Classes.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\04. Hospital With Classes\obj\Debug\04. Hospital With Classes.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\04. Hospital With Classes\obj\Debug\_04.Hospital_With_Classes.exe
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\04. Hospital With Classes\obj\Debug\_04.Hospital_With_Classes.pdb

@@ -1,0 +1,7 @@
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\03. Number Wars\bin\Debug\_03.Number_Wars.exe.config
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\03. Number Wars\bin\Debug\_03.Number_Wars.exe
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\03. Number Wars\bin\Debug\_03.Number_Wars.pdb
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\03. Number Wars\obj\Debug\03. Number Wars.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\03. Number Wars\obj\Debug\03. Number Wars.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\03. Number Wars\obj\Debug\_03.Number_Wars.exe
+E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\03. Number Wars\obj\Debug\_03.Number_Wars.pdb
