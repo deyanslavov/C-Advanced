@@ -1,0 +1,11 @@
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\bin\Debug\netcoreapp2.0\P03.deps.json
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\bin\Debug\netcoreapp2.0\P03.runtimeconfig.json
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\bin\Debug\netcoreapp2.0\P03.runtimeconfig.dev.json
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\bin\Debug\netcoreapp2.0\P03.dll
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\bin\Debug\netcoreapp2.0\P03.pdb
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\obj\Debug\netcoreapp2.0\P03.csprojResolveAssemblyReference.cache
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\obj\Debug\netcoreapp2.0\P03.csproj.CoreCompileInputs.cache
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\obj\Debug\netcoreapp2.0\P03.AssemblyInfoInputs.cache
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\obj\Debug\netcoreapp2.0\P03.AssemblyInfo.cs
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\obj\Debug\netcoreapp2.0\P03.dll
+E:\Coding\SoftUni\C# Advanced\ExamPreps\Exam Retake - 24 April 2018\P03\obj\Debug\netcoreapp2.0\P03.pdb
