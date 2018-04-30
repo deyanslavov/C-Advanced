@@ -1,7 +1,0 @@
-E:\Coding\SoftUni\C# Advanced\Exercises\SnowExamProgFund\01.Snowballs\bin\Debug\01.Snowballs.exe.config
-E:\Coding\SoftUni\C# Advanced\Exercises\SnowExamProgFund\01.Snowballs\bin\Debug\01.Snowballs.exe
-E:\Coding\SoftUni\C# Advanced\Exercises\SnowExamProgFund\01.Snowballs\bin\Debug\01.Snowballs.pdb
-E:\Coding\SoftUni\C# Advanced\Exercises\SnowExamProgFund\01.Snowballs\obj\Debug\01.Snowballs.csprojResolveAssemblyReference.cache
-E:\Coding\SoftUni\C# Advanced\Exercises\SnowExamProgFund\01.Snowballs\obj\Debug\01.Snowballs.csproj.CoreCompileInputs.cache
-E:\Coding\SoftUni\C# Advanced\Exercises\SnowExamProgFund\01.Snowballs\obj\Debug\01.Snowballs.exe
-E:\Coding\SoftUni\C# Advanced\Exercises\SnowExamProgFund\01.Snowballs\obj\Debug\01.Snowballs.pdb
