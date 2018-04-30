@@ -1,6 +1,0 @@
-E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\02. Knight Game\bin\Debug\_02.Knight_Game.exe.config
-E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\02. Knight Game\bin\Debug\_02.Knight_Game.exe
-E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\02. Knight Game\bin\Debug\_02.Knight_Game.pdb
-E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\02. Knight Game\obj\Debug\02. Knight Game.csproj.CoreCompileInputs.cache
-E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\02. Knight Game\obj\Debug\_02.Knight_Game.exe
-E:\Coding\SoftUni\C# Advanced\Exams\C# Advanced Exam - 25 June 2017\Exam - 25 June 2017\02. Knight Game\obj\Debug\_02.Knight_Game.pdb
